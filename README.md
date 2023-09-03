@@ -9,5 +9,5 @@
 <li>Analyze the feasibility and benefits of a permanent work-from-home policy.</li>
 </ul>
 
-<hr>
+##
 By the end of this project, the startup will have a clearer understanding of its current standing and actionable insights for future strategies.
